@@ -1,0 +1,2 @@
+This is a map file !
+And this is a further addition to the file.
